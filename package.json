@@ -6,22 +6,13 @@
   "scripts": {
     "dev": "parcel watch & parcel"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sametcelikbicak/typescript-parcel.git"
-  },
   "keywords": [
     "typescript",
     "parcel",
     "html",
     "css"
   ],
-  "author": "Samet ÇELİKBIÇAK",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sametcelikbicak/typescript-parcel/issues"
-  },
-  "homepage": "https://github.com/sametcelikbicak/typescript-parcel#readme",
   "dependencies": {
     "storage-function": "^2022.9.10",
     "typescript": "^4.8.4"
